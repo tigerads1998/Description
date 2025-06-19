@@ -1,0 +1,19 @@
+{
+  "id": "Ke9HmLg6dN5BY1I0rA2",
+  "title": "Data Engineer",
+  "company": "IBM",
+  "location": "Mexico",
+  "type": "Full-time",
+  "level": "Staff",
+  "salary": "$20,000-$25,000/year",
+  "posted": "2025-05-30",
+  "description": "<h3><strong>IBM is Hiring – Data Engineer (Full-time)</strong></h3><p><strong>IBM</strong>, a global technology leader, delivers data-driven solutions. We’re seeking a <strong>Data Engineer</strong> in Mexico City to build data pipelines for clients.</p><p><strong>About the Role:</strong> You’ll design and manage data infrastructure to support analytics and insights.</p><h3><strong>Key Responsibilities</strong></h3><ul><li>Build <strong>data pipelines</strong> using Python, Spark, and SQL.</li><li>Integrate data from <strong>multiple sources</strong>.</li><li>Optimize <strong>data workflows</strong> for scalability.</li><li>Collaborate with analysts to support <strong>reporting</strong>.</li><li>Ensure <strong>data quality</strong>.</li><li>Stay updated on <strong>data engineering trends</strong>.</li></ul><h3><strong>Why IBM?</strong></h3><p>Work on <strong>innovative projects</strong>. We offer <strong>flexible work</strong>, <strong>certifications</strong>, and a global team.</p><p><strong>Benefits:</strong> Health insurance, pension, 20 days PTO, and data tools.</p><p>📢 <strong>#IBMCareers #DataEngineering #Tech #WeAreHiring</strong></p>",
+  "requirements": [
+    "2–4 years of experience in data engineering",
+    "Proficiency in Python, Spark, and SQL",
+    "Experience with cloud platforms (AWS, Azure)",
+    "Strong data modeling skills",
+    "Bachelor’s degree in computer science or related field"
+  ],
+  "verified": false
+}

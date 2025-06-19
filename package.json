@@ -1,0 +1,72 @@
+{
+  "name": "recruitment-website",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@auth0/auth0-react": "^2.3.0",
+    "@date-io/date-fns": "^2.16.0",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@fingerprintjs/fingerprintjs": "^4.6.2",
+    "@mui/icons-material": "^5.17.1",
+    "@mui/lab": "^5.0.0-alpha.125",
+    "@mui/material": "^5.17.1",
+    "@mui/x-date-pickers": "^5.0.20",
+    "@types/node": "^16.18.31",
+    "@types/react": "^18.2.6",
+    "@types/react-dom": "^18.2.4",
+    "@types/react-google-recaptcha": "^2.1.9",
+    "appwrite": "^18.1.1",
+    "axios": "^1.4.0",
+    "cors": "^2.8.5",
+    "date-fns": "^2.30.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "express-jwt": "^8.5.1",
+    "express-oauth2-jwt-bearer": "^1.6.1",
+    "firebase": "^11.9.1",
+    "firebase-admin": "^11.11.0",
+    "fs": "^0.0.1-security",
+    "jwks-rsa": "^3.2.0",
+    "node-appwrite": "^17.0.0",
+    "path": "^0.12.7",
+    "quill": "^2.0.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-google-recaptcha": "^3.1.0",
+    "react-helmet": "^6.1.0",
+    "react-quill": "^2.0.0",
+    "react-router-dom": "^6.30.1",
+    "react-scripts": "5.0.1",
+    "typescript": "^4.9.5",
+    "uuid": "^11.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "backup": "node scripts/backup-firebase.js",
+    "import-jobs": "node scripts/import-all-jobs.js",
+    "export-to-sheets": "node scripts/export-to-sheets.js",
+    "auto-sync": "node scripts/auto-sync-to-sheets.js"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

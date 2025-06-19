@@ -1,0 +1,19 @@
+{
+  "id": "Nq7OtAv8sA3PXB5C9iK2",
+  "title": "DevOps Engineer",
+  "company": "EPAM Systems",
+  "location": "Canada",
+  "type": "Full-time",
+  "level": "Manager",
+  "salary": "$68,000-$83,000/year",
+  "posted": "2025-06-08",
+  "description": "<h3><strong>EPAM Systems is Hiring – DevOps Engineer (Full-time)</strong></h3><p><strong>EPAM Systems</strong>, a global tech services provider, optimizes software delivery. We’re seeking a <strong>DevOps Engineer</strong> in Toronto to manage CI/CD pipelines.</p><p><strong>About the Role:</strong> You’ll lead DevOps initiatives for efficient development.</p><h3><strong>Key Responsibilities</strong></h3><ul><li>Build <strong>CI/CD pipelines</strong> using Jenkins, GitLab.</li><li>Automate <strong>infrastructure</strong> with Terraform.</li><li>Monitor <strong>systems</strong> with Prometheus.</li><li>Lead <strong>DevOps teams</strong>.</li><li>Ensure <strong>security practices</strong>.</li><li>Stay updated on <strong>DevOps trends</strong>.</li></ul><h3><strong>Why EPAM?</strong></h3><p>Join a <strong>global innovator</strong>. We offer <strong>flexible work</strong>, <strong>certifications</strong>, and dynamic projects.</p><p><strong>Benefits:</strong> Health benefits, RRSP matching, 20 days PTO, DevOps tools.</p><p>📢 <strong>#EPAMCareers #DevOps #Tech #WeAreHiring</strong></p>",
+  "requirements": [
+    "5–7 years of experience in DevOps",
+    "Proficiency in Jenkins, Terraform, GitLab",
+    "Strong leadership skills",
+    "Knowledge of cloud platforms (AWS, Azure)",
+    "Bachelor’s degree in computer science or related field"
+  ],
+  "verified": true
+}

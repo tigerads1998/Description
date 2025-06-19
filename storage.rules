@@ -1,0 +1,16 @@
+rules_version = '2';
+
+service firebase.storage {
+  match /b/{bucket}/o {
+    // Resume files
+    match /resumes/{fileName} {
+      allow read: if true;  // Anyone can read resumes
+      allow create: if request.resource.size < 5 * 1024 * 1024  // Max 5MB
+                   && (
+                     request.resource.contentType.matches('application/pdf') ||  // PDF files
+                     request.resource.contentType.matches('application/msword') ||  // DOC files
+                     request.resource.contentType.matches('application/vnd.openxmlformats-officedocument.wordprocessingml.document')  // DOCX files
+                   );
+    }
+  }
+} 

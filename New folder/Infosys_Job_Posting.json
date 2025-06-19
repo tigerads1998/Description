@@ -1,0 +1,19 @@
+{
+  "id": "Ga5DiHc2zJ1XU7E6nW8",
+  "title": "DevOps Specialist",
+  "company": "Infosys",
+  "location": "Netherlands",
+  "type": "Full-time",
+  "level": "Staff",
+  "salary": "$45,000-$60,000/year",
+  "posted": "2025-06-03",
+  "description": "<h3><strong>Infosys is Hiring – DevOps Specialist (Full-time)</strong></h3><p><strong>Infosys</strong>, a global IT services leader, drives digital transformation. We’re seeking a <strong>DevOps Specialist</strong> in Amsterdam to optimize development pipelines for clients.</p><p><strong>About the Role:</strong> You’ll implement and manage CI/CD pipelines, ensuring efficient software delivery.</p><h3><strong>Key Responsibilities</strong></h3><ul><li>Build <strong>CI/CD pipelines</strong> using Jenkins or GitLab.</li><li>Automate <strong>infrastructure</strong> with Terraform or Ansible.</li><li>Monitor <strong>system performance</strong> using Prometheus.</li><li>Collaborate with developers to ensure <strong>code quality</strong>.</li><li>Implement <strong>security best practices</strong>.</li><li>Stay updated on <strong>DevOps trends</strong>.</li></ul><h3><strong>Why Infosys?</strong></h3><p>Work on <strong>global projects</strong>. We offer <strong>flexible work</strong>, <strong>certifications</strong>, and a dynamic team.</p><p><strong>Benefits:</strong> Health insurance, pension, 25 days leave, and DevOps tools.</p><p>📢 <strong>#InfosysCareers #DevOps #Tech #WeAreHiring</strong></p>",
+  "requirements": [
+    "2–4 years of experience in DevOps",
+    "Proficiency in Jenkins, Terraform, or GitLab",
+    "Knowledge of cloud platforms (AWS, Azure)",
+    "Strong automation skills",
+    "Bachelor’s degree in computer science or related field"
+  ],
+  "verified": false
+}

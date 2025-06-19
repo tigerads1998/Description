@@ -1,0 +1,47 @@
+company
+"L'Oréal"
+(string)
+
+createdAt
+"2025-06-17T04:52:00.000Z"
+(string)
+
+description
+"<h3><strong>L'Oréal is Hiring – Digital Content Creator (Part-time)</strong></h3><p>Where <strong>beauty meets innovation</strong>, and <strong>creativity transforms the everyday</strong>—this is your chance to <strong>shape the digital face of L'Oréal</strong>.</p><p>At <strong>L'Oréal</strong>, we’re the global leader in beauty, with brands like Lancôme, Maybelline, and Yves Saint Laurent. Our digital platforms are where trends are born, and we’re seeking a <strong>Part-time Digital Content Creator</strong> to <strong>craft captivating visuals and stories</strong>.</p><p>This is <strong>more than posts and reels</strong>—it’s about <strong>defining beauty in the digital age</strong> with <strong>authenticity and flair</strong>.</p><h3><strong>Your Mission</strong></h3><p>✔ <strong>Create</strong> engaging content for <strong>social media platforms</strong> (Instagram, TikTok, YouTube).</p><p>✔ <strong>Collaborate</strong> with marketing and product teams to align content with <strong>brand campaigns</strong>.</p><p>✔ <strong>Edit</strong> photos and videos using tools like <strong>Adobe Creative Suite</strong>.</p><p>✔ <strong>Track</strong> content performance and suggest <strong>creative optimizations</strong>.</p><p>✔ <strong>Stay ahead</strong> of <strong>beauty and digital trends</strong> to keep L'Oréal cutting-edge.</p><h3><strong>We’re Looking for Someone Who:</strong></h3><ul><li>Has <strong>1–3 years of experience</strong> in content creation, ideally in <strong>beauty or lifestyle</strong>.</li><li>Knows how to connect with <strong>Gen Z and millennial audiences</strong> through authentic storytelling.</li><li>Is skilled in <strong>video editing, photography</strong>, and tools like <strong>Canva, Premiere Pro</strong>.</li><li>Brings <strong>energy and creativity</strong> balanced with <strong>organizational skills</strong>.</li><li>Is <strong>passionate about beauty</strong> and <strong>driven to innovate</strong>.</li></ul><h3><strong>Position Details</strong></h3><p>🔹 <strong>Role:</strong> Digital Content Creator (Part-time) 🔹 <strong>Hours:</strong> Approx. <strong>15 hrs/week</strong>, flexible 🔹 <strong>Location:</strong> Remote (<strong>New York or Paris preferred</strong>, open to global talent)</p><h3><strong>Why Join L'Oréal?</strong></h3><p>At <strong>L'Oréal</strong>, we <strong>don’t just follow beauty trends</strong>—we <strong>create them</strong>.</p><p>Step into a role where <strong>your creativity fuels global impact</strong>, and your work <strong>redefines beauty standards</strong>.</p><p>Beauty is bold. <strong>So are you.</strong></p><p>📢 <strong>#LOréalCareers #DigitalContentCreator #BeautyMarketing #PartTimeJob #RemoteWork #LOréal #JoinTheBeauty #ContentCreation #WeAreHiring</strong></p>"
+(string)
+
+id
+"Pq3ZmXn9tR5KUV8W2dF7"
+(string)
+
+isDefault
+false
+(boolean)
+
+level
+""
+(string)
+
+location
+"United States"
+(string)
+
+posted
+"2025-06-16"
+(string)
+
+salary
+"2500$-3500$"
+(string)
+
+title
+"Digital Content Creator"
+(string)
+
+type
+"Part-time"
+(string)
+
+verified
+true
+(boolean)
