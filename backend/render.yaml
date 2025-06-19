@@ -6,4 +6,8 @@ services:
     startCommand: node server.js
     envVars:
       - key: PORT
-        value: 4000 
+        value: 4000
+      - key: AUTH0_DOMAIN
+        value: dev-nfadek7d68wbf77m.us.auth0.com
+      - key: AUTH0_CLIENT_ID
+        value: Zv2IDZ8zHU81XaekiRCiX5OxQbRfsnCT 
