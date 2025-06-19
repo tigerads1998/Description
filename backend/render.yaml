@@ -1,9 +1,9 @@
 services:
   - type: web
     name: jobenginehq-api
-    env: node
-    buildCommand: npm install
-    startCommand: node server.js
+    env: docker
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /healthz
     envVars:
       - key: PORT
         value: 4000
